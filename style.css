@@ -1,0 +1,14 @@
+h1{
+    color:rgb(187, 37, 0);
+    font-size:40px;
+}
+.bodybackground{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjxaOA3_Jf9PjTgCSz_Jhq1-noNKuR2Z1KtA&s");
+    background-position:center;
+    background-size:cover;
+}
+#mycanvas{
+    border-width:15px;
+    background-color: rgb(255, 255, 255);
+    border-style:ridge;
+}
